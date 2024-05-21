@@ -1,0 +1,29 @@
+{
+  "name": "validar-dados-ppi",
+  "version": "1.0.0",
+  "description": "WEB APP HTTP PSOTA E VALIDAÇÃO DOS DADOS DO FORMULARIO",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caioxsf/validar-dados-ppi.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "validação"
+  ],
+  "author": "Caio Nobile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caioxsf/validar-dados-ppi/issues"
+  },
+  "homepage": "https://github.com/caioxsf/validar-dados-ppi#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
